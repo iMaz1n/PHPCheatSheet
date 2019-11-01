@@ -1,2 +1,2 @@
 # PHPCheatSheet
-PHP Cheat Sheet
+PHP (Personal Home Page) Cheat Sheet
