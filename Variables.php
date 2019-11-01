@@ -14,10 +14,13 @@
 	$pi = 3.14;
 	$int = $int-1;
 	$int--;
+	$phpStr = "PHP";
 	
 	echo "The int is: ". $int . " and bool : " . $isProgrammer . " Pi: " . $pi;
 	echo "\n";
 	echo "from echo with $pi";
+	echo "\n";
+	echo "Hello ","I'm using ",$phpStr," 7";
 	echo "\n";
 	printf("$str I'm %u",$int);
 ?>
