@@ -20,7 +20,7 @@
 	echo "\n";
 	echo "from echo with $pi";
 	echo "\n";
-	echo "Hello ","I'm using ",$phpStr," 7.1.2";
+	echo "Hello ","I'm using ",$phpStr," 7.1";
 	echo "\n";
 	printf("$str I'm %u",$int);
 ?>
