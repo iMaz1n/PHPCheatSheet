@@ -15,6 +15,7 @@
 	$int = $int-1;
 	$int--;
 	$phpStr = "PHP";
+	$id = 11;
 	
 	echo "The int is: ". $int . " and bool : " . $isProgrammer . " Pi: " . $pi;
 	echo "\n";
@@ -22,5 +23,8 @@
 	echo "\n";
 	echo "Hello ","I'm using ",$phpStr," 7.X";
 	echo "\n";
-	printf("$str I'm %u",$int);
+	printf("$str I'm %u",$int);	
 ?>
+
+<!-- to print id with html -->
+<a href="profile.html?id=<?=$id?>">My Profile</a>
