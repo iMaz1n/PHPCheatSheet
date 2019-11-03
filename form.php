@@ -1,3 +1,4 @@
+<?php $name = null;?>
 <form>
 	First name:<br>
 	<input type="text" name="firstname" placeholder="Mazen">
