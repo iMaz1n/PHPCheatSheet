@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/HoG1Cdi.png"></p>
 
 
-# PHPCheatSheet
+## PHPCheatSheet
 PHP (Personal Home Page) Cheat Sheet
